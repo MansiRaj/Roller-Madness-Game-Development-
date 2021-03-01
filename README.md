@@ -1,6 +1,6 @@
 # Roller-Madness-Game-Development-
 A game dev project made with UNITY having two levels to cross by the player.
-<img src="https://github.com/MansiRaj/Roller-Madness-Game-Development-/blob/main/screenshot1.png" width="600" height="400">
+<img src="https://github.com/MansiRaj/Roller-Madness-Game-Development-/blob/main/screenshot1.png" width="900" height="400">
 All the assets file is in the "Assets folder"
 All the Webgl files are in the"webGL" folder
 #### NOTE 
