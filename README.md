@@ -1,3 +1,3 @@
 # Roller-Madness-Game-Development-
 A game dev project made with UNITY having two levels to cross by the player.
-![Screenshot](screenshot1.png=250*250)
+<img src="https://your-image-url.type" width="100" height="100">
